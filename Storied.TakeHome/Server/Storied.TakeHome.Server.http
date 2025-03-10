@@ -1,0 +1,6 @@
+@Storied.TakeHometwo_HostAddress = http://localhost:5063
+
+GET {{Storied.TakeHometwo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v7hFo5tjWMw=",
+  "success": true,
+  "projectFilePath": "C:\\Github\\Storied-TakeHome\\Storied.TakeHome\\Server\\Storied.TakeHome.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djhv9\\.nuget\\packages\\bogus\\35.6.2\\bogus.35.6.2.nupkg.sha512",
+    "C:\\Users\\djhv9\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\djhv9\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

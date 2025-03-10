@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.VisualStudio.JavaScript.Sdk/1.0.1738743">
+  <PropertyGroup>
+    <ShouldRunBuildScript>false</ShouldRunBuildScript>
+    <ShouldRunNpmInstall>true</ShouldRunNpmInstall>
+    <JavaScriptTestRoot>src\</JavaScriptTestRoot>
+    <JavaScriptTestFramework>Jest</JavaScriptTestFramework>
+    <!-- Command to run on build -->
+    <BuildCommand>npm run build</BuildCommand>
+    <!-- Command to run on clean -->
+    <CleanCommand>npm run clean</CleanCommand>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Github\\Storied-TakeHome\\Storied.TakeHometwo\\Client\\storied.takehome.client.esproj": {}
+  },
+  "projects": {
+    "C:\\Github\\Storied-TakeHome\\Storied.TakeHometwo\\Client\\storied.takehome.client.esproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Github\\Storied-TakeHome\\Storied.TakeHometwo\\Client\\storied.takehome.client.esproj",
+        "projectName": "storied.takehome.client",
+        "projectPath": "C:\\Github\\Storied-TakeHome\\Storied.TakeHometwo\\Client\\storied.takehome.client.esproj",
+        "packagesPath": "C:\\Users\\djhv9\\.nuget\\packages\\",
+        "outputPath": "C:\\Github\\Storied-TakeHome\\Storied.TakeHometwo\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\djhv9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/Puerta-a-Puerta/index.json": {},
+          "https://nuget.pkg.github.com/djhvscf/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-none": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net6.0-none": {
+          "targetAlias": "net6.0"
+        }
+      }
+    }
+  }
+}

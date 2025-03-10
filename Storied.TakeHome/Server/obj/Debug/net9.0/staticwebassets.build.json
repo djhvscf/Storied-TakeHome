@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Na2bOd7DvK2kYdKHYzTKlcPCNLmnGcXwIme5ucGN3ms=",
+  "Source": "Storied.TakeHome.Server",
+  "BasePath": "_content/Storied.TakeHome.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
